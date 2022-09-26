@@ -1,2 +1,5 @@
 
-Hello, I'm Thomas Anderson (prefer Tommy). I'm a Junior in the school of engineering and I am majoring in Data Science. A fun fact about me is I beat my entire family in fantasy and bracket challenges simply using statistics from every team and eliminating any of my bias.
+Hello, I'm Thomas Anderson (prefer Tommy).
+I'm a Junior in the school of engineering and I am majoring in Data Science. 
+A fun fact about me is I beat my entire family in fantasy and bracket challenges 
+simply using statistics from every team and eliminating any of my bias.
